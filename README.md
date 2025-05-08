@@ -1,6 +1,4 @@
-Here’s the improved, well-formatted `README.md` for your **Quora Spam Detector** project:
 
----
 
 ````markdown
 # 🛡️ Quora Spam Detector
@@ -89,10 +87,3 @@ The model is trained for **5 epochs** using a **batch size of 128** and **binary
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
----
-
-This structure is clean, concise, and well-formatted for your GitHub project. Feel free to copy and paste this directly into your `README.md` file! Let me know if you need anything else.
-```
